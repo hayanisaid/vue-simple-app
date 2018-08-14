@@ -84,7 +84,7 @@ export default {
 }
 .modalContainer{
     background: #fff;
-    width: 34em;
+    width: 40em;
     height: auto;
     margin: 3em auto;
     padding: 10px;
@@ -105,7 +105,7 @@ export default {
 }
 .modalContainer .modal-header h3{
     font-family: "Raleway";
-    font-size: 1em;
+    font-size: 1.5em;
     margin: .5em;
     color: #666;
 }

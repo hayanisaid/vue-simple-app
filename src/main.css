@@ -86,8 +86,16 @@ button.add_post:hover {
   width: 210px;
   height: 150px;
   padding: 5px;
+  margin: 2px;
 }
 
+.card.notverified {
+  background: rgba(255, 113, 70, .2);
+}
+
+.card.verified {
+  background: rgba(1, 165, 141, .1);
+}
 img {
   display: flex;
   flex: 8;
@@ -167,6 +175,7 @@ img {
   border: 1px solid #efefef;
   color: #888;
   margin-bottom: 2em;
+  font-size: 0.9em;
   font-family: "Raleway";
   margin-top: 1em;
 }
